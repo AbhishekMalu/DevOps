@@ -67,7 +67,7 @@ It create a local repository to track changes locally rather than store then on 
 
 - `rmdir {folder_name}` : To delete the directory
 
-- `rmdir -rf {folder_name}` : To delete directory having data
+- `rm -r {folder_name}` : To delete directory having data
 
 - `nano {filename.type}` : To create and edit file in nano editor (ctrl+x)
 
