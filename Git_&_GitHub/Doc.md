@@ -1,16 +1,16 @@
-## <img src="image.png" alt="Git" width="20" height="20"> Git 👈
+## <img src="image/image.png" alt="Git" width="20" height="20"> Git 👈
 #### _Git is a distributed version control system (VCS). It's a tool that helps developers track changes in their source code over time. Git allows multiple people to work on a project simultaneously and merge their changes efficiently._
 
 <div><b><u>KeyFeatures</u> : </b></div> 
 
 + Version Control: Git tracks changes to files, allowing you to access previous versions and see the history of the code.
-+ Branching: Git enables the creation of branches for parallel development, making it easy to work on new features or bug fixes without affecting the main codebase.
++ Branching: Git enables the creation of branches for parallel development, making it easy to work on new f eatures or bug fixes without affecting the main codebase.
 + Merging: Git facilitates the merging of changes from different branches back into the main branch.
 + Distributed: Each developer has a full copy of the project's history, which makes it robust and allows for offline work.
 
 ##### _Developers use Git for managing and tracking changes in their codebase. Git is primarily a command-line tool, but it also has graphical user interfaces available._
 
-## <img src="image-6.png" alt="GitHub" width="30" height="30"> GitHub 👈
+## <img src="image/image-6.png" alt="GitHub" width="30" height="30"> GitHub 👈
 #### _GitHub is a web-based platform built on top of Git. It adds a social and collaborative aspect to version control. It's used for hosting and sharing Git repositories, collaborating with others, and managing projects._
 
 <div><b><u>KeyFeatures</u> : </b></div> 
@@ -22,7 +22,7 @@
 
 ##### _GitHub is a platform where developers collaborate on open-source and private projects, share code, manage issues, and contribute to various software projects. It's widely used for open-source contributions and collaborative development._
 
-##    <img src="image.png" alt="Git" width="30" height="30"> [Git] v/s [GitHub]<img src="image-6.png" alt="GitHub" width="30" height="30">
+##    <img src="image/image.png" alt="Git" width="30" height="30"> [Git] v/s [GitHub]<img src="image/image-6.png" alt="GitHub" width="30" height="30">
 
 
 
@@ -76,3 +76,4 @@ It create a local repository to track changes locally rather than store then on 
 - `cat {filename.type}` : Display file content
 
 ### 👉 Git/GitHub commands
+
