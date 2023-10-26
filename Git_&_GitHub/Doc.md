@@ -10,7 +10,7 @@
 
 ##### _Developers use Git for managing and tracking changes in their codebase. Git is primarily a command-line tool, but it also has graphical user interfaces available._
 
-## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45" height="35"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="55" height="30">  👈
+## <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="45" height="40"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="55" height="25">  👈
 #### _GitHub is a web-based platform built on top of Git. It adds a social and collaborative aspect to version control. It's used for hosting and sharing Git repositories, collaborating with others, and managing projects._
 
 <div><b><u>KeyFeatures</u> : </b></div> 
@@ -22,7 +22,7 @@
 
 ##### _GitHub is a platform where developers collaborate on open-source and private projects, share code, manage issues, and contribute to various software projects. It's widely used for open-source contributions and collaborative development._
 
-##    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAU0AmFU2Dl800ntVCg_LLdocDQgV8bQT8Jg0l3-8aQ&s" alt="Git" width="65" height="25"> [Git] v/s [GitHub] <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="55" height="22"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrx85c1BCMfU1d9p3JFYplq0s1920-73056g&usqp=CAU" alt="GitHub" width="40" height="30">
+##    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAU0AmFU2Dl800ntVCg_LLdocDQgV8bQT8Jg0l3-8aQ&s" alt="Git" width="65" height="25"> V/S <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="55" height="25"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrx85c1BCMfU1d9p3JFYplq0s1920-73056g&usqp=CAU" alt="GitHub" width="40" height="35">
 
 
 
