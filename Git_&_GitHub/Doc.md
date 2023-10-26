@@ -22,7 +22,7 @@
 
 ##### _GitHub is a platform where developers collaborate on open-source and private projects, share code, manage issues, and contribute to various software projects. It's widely used for open-source contributions and collaborative development._
 
-##    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAU0AmFU2Dl800ntVCg_LLdocDQgV8bQT8Jg0l3-8aQ&s" alt="Git" width="65" height="25"> [Git] v/s [GitHub] <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="55" height="30"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrx85c1BCMfU1d9p3JFYplq0s1920-73056g&usqp=CAU" alt="GitHub" width="40" height="40">
+##    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAU0AmFU2Dl800ntVCg_LLdocDQgV8bQT8Jg0l3-8aQ&s" alt="Git" width="65" height="25"> [Git] v/s [GitHub] <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" alt="GitHub" width="55" height="22"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrx85c1BCMfU1d9p3JFYplq0s1920-73056g&usqp=CAU" alt="GitHub" width="40" height="30">
 
 
 
@@ -40,40 +40,43 @@ It create a local repository to track changes locally rather than store then on 
 ### 👉 Basic Command Related To Directory
 
 - `ls` : List down data of current working directory
-
 - `ls -a` : List down the hidden repo
-
 - `pwd` : Path of current working directory
-
 - `cd` : Change directory to given path
-
 - `clear` : To clear the terminal
-
 - `cd ..` : Go back one step
-  
 - `cd /` : Go back to into the root directory
-
 - `cd ~` : Go back to home directory
-  
 - `touch {filename.type}` : To create the file
-  
 - `touch {filename.type} {filename2.type}` : To create the multiple file
-  
 - `mkdir {folder_name}` : To create the folder
-
 - `mkdir {folder1} {folder2}` : To create the multiple folder
-
 - `rm {filename.type}` : To delete file
-
 - `rmdir {folder_name}` : To delete the directory
-
 - `rm -r {folder_name}` : To delete directory having data
-
 - `nano {filename.type}` : To create and edit file in nano editor (ctrl+x)
-
 - `vi {filename.type}` : To create and edit the file in vi editor (esc + (shift+z+z))
-
 - `cat {filename.type}` : Display file content
 
 ### 👉 Git/GitHub commands
 
+- `git --version` : To check the version of git
+- `git config --global user.name "{your_name}"` : Setup the Git username
+- `git config --global user.email "{your_email}"` : Setup the Git email Id
+- `git config user.name` : To get the Git username
+- `git config user.email` : To get the Git Email Id
+- `git init` : Initialize a new Git repository in the current directory
+- `git clone {repository_url}` : Clone a remote Git repository to your local machine
+- `git status` : status of working directory and staging area
+- `git add .` : Add all changes in the working directory to the staging area
+- `git add {filename.type}` : Add a single file to the staging area
+- `git commit -m"your commit message"` : saving changes to git
+- `git remote add {name} {repository_url}` : To add a remote repository 
+- `git remote -v` : To display the remote URL's
+- `git pull {remote_name} {branch_name}` : Pull changes from a remote repository to working directory
+- `git push {remote_name} {branch_name}` : Push changes to a remote repository from working directory
+- `git branch {branch_name}` : To create the branch
+- `git checkout {branch_name}` : Switch to a different branch
+- `git checkout -b {new_branch}` : To create and switch to a new branch in one command
+- `git branch` : List branches and show the current branch
+- `git merge {other_branch}` : To merge all change from one branch into the current branch
